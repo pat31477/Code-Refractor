@@ -32,17 +32,23 @@ Removed float right from line 63
 
 Condensed in to groups on lines 87-89, 95-97, 103-105, 112-114, 124-126, and 131-133
 
-I left comments on both the HTML and CSS pages to show the changes I made.
+I left comments on both the HTML and CSS pages to show the changes I made
+
 ​
 All files have been uploaded to the github repository(see link below) and the application has been deployed to a live url using github pages (see link below)
 
-The application should load with no issues or errors.
+
+The application should load with no issues or errors
+
 ​
 ![refactored website demo] (assets/demo-horiseon-website.jpg)
+
 ​
 [github pages site] https://pat31477.github.io/Code-Refractor/
+
 ​
 [github repo site] https://github.com/pat31477/Code-Refractor
+
 
 Completed in collaboration with:
 
