@@ -7,19 +7,29 @@ I refactored the application code to meet all of the requirements without changi
 I reworked the HTML to include semantic HTML elements and that follow of logical structure independent of styling and positioning. Below is a detailed list of changes that I made to the HTML.
 
 . Changed title content to display on web page tab
+
 . Added Type ="text/ccs"
+
 . Changed div tag to header tag on line 13
+
 . Changed div tags to nav tags on lines 16 and 28
+
 . Changed div tag to main tag on line 33
+
 . Added alt & title for images on lines 36, 36, and 56
+
 . Changed div tag to aside tag on line 67
+
 . Changed div tag to article tag on lines 68, 75, and 82
+
 . Changed heart icon to HTML MarkUp code on line 93
 
 For the CSS, I consolidated all of the selectors and properties and made them follow the semantic structure of the HTML. Below is a detailed list of the changes I made to the CSS.
 
 . Changed .header tag and applied to all header tags
+
 . Removed float right from line 63
+
 . Condensed in to groups on lines 87-89, 95-97, 103-105, 112-114, 124-126, and 131-133
 
 I left comments on both the HTML and CSS pages to show the changes I made.
@@ -35,7 +45,10 @@ The application should load with no issues or errors.
 
 Completed in collaboration with:
 
-<p>Jason Barnabell</p>
-<p>Takuya Matsumoto</p>
-<p>Gabe Thomas</p>
-<p>Ben Durham</p>
+Jason Barnabell
+
+Takuya Matsumoto
+
+Gabe Thomas
+
+Ben Durham
