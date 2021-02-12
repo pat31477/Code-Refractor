@@ -35,11 +35,11 @@ Condensed in to groups on lines 87-89, 95-97, 103-105, 112-114, 124-126, and 131
 I left comments on both the HTML and CSS pages to show the changes I made
 
 ​
-All files have been uploaded to the github repository(see link below) and the application has been deployed to a live url using github pages (see link below)
+All files have been uploaded to the github repository(see link below) and the application has been deployed to a live url using github page(see link below)
 
-
+<p>
 The application should load with no issues or errors
-
+</p>
 ​
 ![refactored website demo] (assets/demo-horiseon-website.jpg)
 
